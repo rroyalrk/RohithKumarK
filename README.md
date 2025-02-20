@@ -39,25 +39,25 @@
 
 ## 🚀 Featured Projects
 
-### 🎥 **Video Streaming App**
-📌 A YouTube-like platform for **video uploads, streaming, and monetization**  
-**Tech Stack:** React.js, Spring Boot, AWS S3, PostgreSQL  
-🔗 **[GitHub Repo](https://github.com/rohithkumar/video-streaming)**  
+### 🕵️‍♂️ **Crime Analysis and Prediction**
+📌 A system designed to predict regions with a high probability of crime occurrence, aiding in proactive law enforcement and community safety measures.  
+**Tech Stack:** Python, Machine Learning, Data Analysis  
+🔗 **[GitHub Repo](https://github.com/rroyalrk/Crime-analysis-and-prediction)**
 
-### 🛍 **E-Commerce Platform**
-📌 Full-stack e-commerce web application with **real-time inventory and payment gateway**  
-**Tech Stack:** Django, React, Stripe API, MongoDB  
-🔗 **[GitHub Repo](https://github.com/rohithkumar/e-commerce)**  
+### 🚜 **I-THE-FARMER**
+📌 An application aimed at empowering farmers with real-time data and tools to enhance agricultural productivity and sustainability.  
+**Tech Stack:** JavaScript, Node.js, Express, MongoDB  
+🔗 **[GitHub Repo](https://github.com/rroyalrk/I-THE-FARMER)**
 
-### 🤖 **AI Chatbot**
-📌 Intelligent chatbot **for customer support with NLP-based responses**  
-**Tech Stack:** Python, Dialogflow, Node.js, MongoDB  
-🔗 **[GitHub Repo](https://github.com/rohithkumar/ai-chatbot)**  
+### 📱 **SMS Motor On/Off**
+📌 A project that enables users to control motors via SMS, providing a simple IoT solution for remote device management.  
+**Tech Stack:** Embedded Systems, GSM Module, C Programming  
+🔗 **[GitHub Repo](https://github.com/rroyalrk/sms-motor-on-off)**
 
-### 🔗 **URL Shortener**
-📌 Scalable **Bit.ly-like** URL shortener with **custom link management**  
-**Tech Stack:** FastAPI, Redis, PostgreSQL, Docker  
-🔗 **[GitHub Repo](https://github.com/rohithkumar/url-shortener)**  
+### 🗣️ **My Google Assistant**
+📌 A custom implementation of Google Assistant with personalized commands and responses, enhancing user interaction with smart devices.  
+**Tech Stack:** Python, Google Assistant SDK, Raspberry Pi  
+🔗 **[GitHub Repo](https://github.com/rroyalrk/my-google-assistance)**
 
 ---
 
@@ -74,17 +74,17 @@
 ---
 
 ## 🏆 Certifications
-✅ **Google Cloud Professional Data Engineer (In Progress)**  
-✅ **Generative AI Certified (Google & Oracle)**  
-✅ **Microsoft Azure AZ-900**  
-✅ **SQL Certification (Oracle)**  
+- **Google Cloud Professional Data Engineer (In Progress)**
+- **Generative AI Certified (Google & Oracle)**
+- **Microsoft Azure AZ-900**
+- **SQL Certification (Oracle)**
 
 ---
 
 ## 📫 Let's Connect!
 📩 **Email:** rohith.kumar@example.com  
 💼 **Portfolio:** [rroyalrk.github.io/rohithkumar.katta](https://rroyalrk.github.io/rohithkumar.katta/)  
-📱 **LinkedIn:** [linkedin.com/in/rohith-kumar-katta-12229118a/](https://www.linkedin.com/in/rohith-kumar-katta-12229118a/)  
+📱 **LinkedIn:** [linkedin.com/in/rohith-kumar-katta-12229118a/](https://www.linkedin.com/in/rohith-kumar-katta-12229118a/)
 
 ---
 
