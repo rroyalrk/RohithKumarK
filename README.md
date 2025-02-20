@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=70&lines=Full+Stack+Software+Engineer+%7C+Cloud+Practitioner+%7C+AI+Enthusiast;Passionate+about+building+scalable+web+applications+%26+AI-powered+solutions">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Software+Engineer;Cloud+Practitioner;AI+Enthusiast;Building+Scalable+Web+Applications;AI-powered+Solutions+Expert">
 </p>
 
 <p align="center">
